@@ -1,5 +1,5 @@
 ---
-name: prd-draft
+name: PRD.md
 description: Writes a comprehensive app plan / PRD for an AI-enabled IDE (Lovable, v0, Bolt, Google AI Studio, Cursor) following the experienced-app-developer framework. Reads the project's CLAUDE.md and any memory/ rules as input, interviews for missing details, then outputs a structured app plan to PRD.md at workspace root. Trigger on phrases like "draft a PRD", "I need a PRD for Lovable", "spec out the prototype", "/prd-draft", "build the app plan", or when the user is about to take their idea to a no-code builder.
 ---
 
